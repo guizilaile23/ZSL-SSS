@@ -1,9 +1,12 @@
 # ZSL-SSS
 zero shot side scan sonar image classification
-code for paper “Zero-shot Side-scan Sonar Images Classification via Synthesis of Pseudo Samples”
+code for paper “Zero-shot Side-scan Sonar Images Classification via Synthesis of Pseudo Samples”  
+
 the PhtotWCT_4_Sonar dir contain the style transfer method for side scan sonar images, the codes are modify from the original PhotoWCT (https://github.com/NVIDIA/FastPhotoStyle
-) 
-here their paper https://arxiv.org/abs/1802.06474
+)  
+
+here their paper https://arxiv.org/abs/1802.06474  
+
 
 the code are writen in pytorch 1.4
 
